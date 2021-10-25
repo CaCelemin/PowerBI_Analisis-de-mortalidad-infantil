@@ -15,7 +15,7 @@ Para utilizar la información de este repositorio:
 
 Clone o fork este repositorio en la maquina local. Puedes clonarlo desde Github descargando como .zip o desde git:
 ```
-$git clone https://github.com/CaCelemin/PowerBI_Venta-de-Videojuegos.git
+$git clone https://github.com/CaCelemin/PowerBI_Analisis-de-mortalidad-infantil.git
 ```
 Se utilizó la herramienta [Power BI Desktop](https://powerbi.microsoft.com/es-es/desktop/)
 
